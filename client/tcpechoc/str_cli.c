@@ -10,4 +10,3 @@ str_cli(FILE *fp, int sockfd){
 		Fputs(recvline, stdout);
 	}
 }
-
